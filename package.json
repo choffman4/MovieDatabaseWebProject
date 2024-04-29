@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "MovieDatabaseUI",
+  "version": "1.0.0",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.0"
+  }
+}
